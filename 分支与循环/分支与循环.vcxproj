@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="奇偶数判断.cpp" />
+    <ClCompile Include="输出星期.cpp" />
     <ClCompile Include="输出100内的奇数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

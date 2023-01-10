@@ -18,7 +18,7 @@
     <ClCompile Include="奇偶数判断.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="输出100内的奇数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

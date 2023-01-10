@@ -1,2 +1,6 @@
-﻿  输出星期.cpp
+﻿  666.cpp
+C:\Users\Administrator\Desktop\study\c\learn-c\分支与循环\666.cpp(15,10): warning C4129: “,”: 不可识别的字符转义序列
+C:\Users\Administrator\Desktop\study\c\learn-c\分支与循环\666.cpp(21,11): warning C4129: “,”: 不可识别的字符转义序列
+C:\Users\Administrator\Desktop\study\c\learn-c\分支与循环\666.cpp(26,10): warning C4129: “,”: 不可识别的字符转义序列
+C:\Users\Administrator\Desktop\study\c\learn-c\分支与循环\666.cpp(33,9): warning C4129: “,”: 不可识别的字符转义序列
   分支与循环.vcxproj -> C:\Users\Administrator\Desktop\study\c\learn-c\分支与循环\x64\Debug\分支与循环.exe

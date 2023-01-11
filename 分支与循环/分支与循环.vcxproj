@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="奇偶数判断%28if%29.cpp" />
     <ClCompile Include="加法练习（求m,n）.cpp" />
+    <ClCompile Include="n的阶乘.cpp" />
     <ClCompile Include="输入密码（getchar）.cpp" />
     <ClCompile Include="输出星期%28switch%29.cpp" />
     <ClCompile Include="输出100内的奇数%28while%29.cpp" />

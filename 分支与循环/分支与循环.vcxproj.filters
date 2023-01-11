@@ -30,5 +30,8 @@
     <ClCompile Include="输入密码（getchar）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n的阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

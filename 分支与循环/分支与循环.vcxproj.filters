@@ -27,5 +27,8 @@
     <ClCompile Include="加法练习（求m,n）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="输入密码（getchar）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
